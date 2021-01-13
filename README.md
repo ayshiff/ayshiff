@@ -6,7 +6,7 @@
 
 Hi 👋   
 I am **Rémi Doreau**, a french FullStack Developer passionated about the Software Engineering world.   
-Every week I choose a contribution to Open Source that I made during the week that I find quite complete and particularly interesting to present in <a href="http://myopensourcejourney.com/">**My Open Source journey**</a>.
+Every two weeks I choose a contribution to Open Source that I made during these two weeks that I find quite complete and particularly interesting to present in <a href="http://myopensourcejourney.com/">**My Open Source journey**</a>.
 
 I also have a <a href="https://remidoreau.com/">**blog**</a> where you can find various articles about programming. 
 
