@@ -4,4 +4,4 @@
     </p>
 </a>
 
-EDIT: <a href="http://myopensourcejourney.com/">**My Open Source journey**</a> has been archived.
+**EDIT:** <a href="http://myopensourcejourney.com/">**My Open Source journey**</a> has been archived.
